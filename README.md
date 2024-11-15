@@ -18,12 +18,12 @@ CSS: Styling and layout, with a focus on flexbox and grid for responsive design.
 # Getting Started
 1. Clone this repository:
 bash
-git clone https://github.com/yourusername/amazon-clone-html-css.git
+git clone https://github.com/saimargale/Amazon-Clone.git
 2. Navigate to the project folder and open index.html in your browser to view the Amazon clone.
 
 # File Structure
 plaintext
 amazon-clone-html-css/
-├── index.html           # Main HTML file
+├── AmazonClone.html           # Main HTML file
 ├── styles.css           # CSS file for styling
 └── images/              # Folder containing images used in the project
