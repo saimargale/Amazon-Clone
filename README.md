@@ -15,14 +15,6 @@ This is a simple Amazon clone built using only **HTML** and **CSS**. The project
 1. Download or clone the repository.
 2. Open the \`index.html\` file in a web browser.
 
-## Folder Structure
-\`\`\`
-Amazon-Clone/
-│── index.html
-│── styles.css
-│── assets/
-│   ├── images/
-\`\`\`
 
 ## Future Enhancements
 - Implementing a product detail page.
